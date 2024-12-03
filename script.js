@@ -7,7 +7,7 @@ const levelDisplay = document.getElementById("level");
 const restartButton = document.getElementById("restart");
 
 // Game Variables
-const levels = ["Text1", "Text2", "Text3", "Text4"];
+const levels = ["Text1", "Tex2", "Text3", "Text4"];
 let currentLevel = 1;
 let timeLeft = 60;
 let errors = 0;
